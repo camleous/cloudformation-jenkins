@@ -3,7 +3,7 @@
 "Parameters" : {
   "SNSEmail" : {
     "Type" : "String",
-    "Description" : "Enter email for SNS notification"
+    "Description" : "camleous@yahoo.com"
   }
 },
 "Resources" : {
