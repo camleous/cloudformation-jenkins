@@ -1,5 +1,5 @@
 {
-  "Parameters" : {
-    "SNSEmail" : "camleous@yahoo.com"
-  }
-}  
+   "Parameters":{
+      "SNSEmail":"camleous@yahoo.com"
+   }
+}
